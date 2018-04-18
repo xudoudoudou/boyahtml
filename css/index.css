@@ -53,7 +53,7 @@ a{text-decoration: none;}
 /*²©ÑÅÐÂÎÅ*/
 
 .news{width: 1000px;height: 310px;margin: 50px auto;}
-.news-left{width: 500px;height: 310px;float: left;background: url(../img/bynewsbg.jpg);}
+.news-left{width: 500px;height: 310px;float: left;background: url("../img/bynewsbg.jpg");}
 .news-left >a{width: 64px;height: 26px;line-height: 26px;text-align: center; border: 1px solid #30bd72;color: #33b972;
              display: inline-block;font-size: 14px;border-radius: 6%;position: relative;
              top: 52px;left: 218px;}
@@ -86,7 +86,7 @@ a{text-decoration: none;}
 .news-right{width: 500px;
             height: 310px;
             float: right;
-            background: url(../img/byhrbg3.jpg);}
+            background: url("../img/byhrbg3.jpg");}
 .ntop{width: 500px;
       height: 110px;
       }
